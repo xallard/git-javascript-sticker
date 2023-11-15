@@ -1,6 +1,6 @@
 # Free JavaScript Sticker for a Pull Request
 
-This project uses the node-rsa library to encrypt your mailing address with a public key.
+This project uses the node-rsa library to encrypt your mailing address, so we can send your free JavaScript sticker privately and securely.
 
 ## Requirements
 
@@ -38,13 +38,13 @@ This project uses the node-rsa library to encrypt your mailing address with a pu
    git checkout -b <creative-branch-name>
    ```
 
-4. Encrypt your address by running:
+4. Encrypt your mailing address by running:
 
    ```
    npm start
    ```
 
-5. Create a new file name and paste in the encrypted string:
+5. Create a new file name and paste in the encrypted output string:
 
    ```
    stickers/<your-github-username>.txt
@@ -66,7 +66,7 @@ This project uses the node-rsa library to encrypt your mailing address with a pu
    git push origin <creative-branch-name>
    ```
 
-8. Open a new pull request on Github
+8. Open a new pull request on Github with a creative title and description.
 
 9. That's it! Your pull request is now submitted and I will carefully review it and approve it.
 
