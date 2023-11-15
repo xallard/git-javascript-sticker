@@ -13,7 +13,9 @@
     "keygen": "node keygen.js",
     "test": "node decrypt.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "free sticker"
+  ],
+  "author": "xallar",
   "license": "MIT"
 }
