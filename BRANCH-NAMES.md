@@ -15,401 +15,401 @@ Uses one of these prefixes:
 11. `Docs`
 
 ```
-fix-bugs-for-stickers
+git checkout -b fix-bugs-for-stickers
 ```
 
 ```
-enhancement-javascript-sticker-quest
+git checkout -b enhancement-javascript-sticker-quest
 ```
 
 ```
-docs-sticker-placement-guidelines
+git checkout -b docs-sticker-placement-guidelines
 ```
 
 ```
-refactor-code-for-sticker
+git checkout -b refactor-code-for-sticker
 ```
 
 ```
-style-stylish-sticker-requests
+git checkout -b style-stylish-sticker-requests
 ```
 
 ```
-test-automate-sticker-distribution
+git checkout -b test-automate-sticker-distribution
 ```
 
 ```
-chore-sticker-inventory-management
+git checkout -b chore-sticker-inventory-management
 ```
 
 ```
-breaking-sticker-v2
+git checkout -b breaking-sticker-v2
 ```
 
 ```
-feature-make-me-a-javascript-sticker
+git checkout -b feature-make-me-a-javascript-sticker
 ```
 
 ```
-security-sticker-privacy-review
+git checkout -b security-sticker-privacy-review
 ```
 
 ```
-revert-give-me-my-sticker-back
+git checkout -b revert-give-me-my-sticker-back
 ```
 
 ```
-feature-sticker-themed-ui
+git checkout -b feature-sticker-themed-ui
 ```
 
 ```
-fix-sticker-label-printing-bug
+git checkout -b fix-sticker-label-printing-bug
 ```
 
 ```
-enhancement-sticker-design-contest
+git checkout -b enhancement-sticker-design-contest
 ```
 
 ```
-docs-how-to-apply-stickers
+git checkout -b docs-how-to-apply-stickers
 ```
 
 ```
-refactor-optimize-sticker-rendering
+git checkout -b refactor-optimize-sticker-rendering
 ```
 
 ```
-style-keep-sticker-colors-in-check
+git checkout -b style-keep-sticker-colors-in-check
 ```
 
 ```
-test-sticker-durability-testing
+git checkout -b test-sticker-durability-testing
 ```
 
 ```
-chore-sticker-storage-cleanup
+git checkout -b chore-sticker-storage-cleanup
 ```
 
 ```
-breaking-sticker-overload
+git checkout -b breaking-sticker-overload
 ```
 
 ```
-security-sticker-security-audit
+git checkout -b security-sticker-security-audit
 ```
 
 ```
-revert-i-changed-my-mind-sticker
+git checkout -b revert-i-changed-my-mind-sticker
 ```
 
 ```
-feature-sticker-powered-chatbot
+git checkout -b feature-sticker-powered-chatbot
 ```
 
 ```
-fix-sticker-peeling-issue
+git checkout -b fix-sticker-peeling-issue
 ```
 
 ```
-enhancement-sticker-fusion-algorithm
+git checkout -b enhancement-sticker-fusion-algorithm
 ```
 
 ```
-docs-sticker-artistic-inspiration
+git checkout -b docs-sticker-artistic-inspiration
 ```
 
 ```
-refactor-refine-sticker-shapes
+git checkout -b refactor-refine-sticker-shapes
 ```
 
 ```
-style-sticker-fashion-show
+git checkout -b style-sticker-fashion-show
 ```
 
 ```
-test-sticker-strength-testing
+git checkout -b test-sticker-strength-testing
 ```
 
 ```
-chore-sticker-swap-party
+git checkout -b chore-sticker-swap-party
 ```
 
 ```
-breaking-sticker-crisis
+git checkout -b breaking-sticker-crisis
 ```
 
 ```
-security-sticker-guard-dogs
+git checkout -b security-sticker-guard-dogs
 ```
 
 ```
-revert-bring-back-my-sticker
+git checkout -b revert-bring-back-my-sticker
 ```
 
 ```
-feature-sticker-coding-contest
+git checkout -b feature-sticker-coding-contest
 ```
 
 ```
-fix-sticker-alignment-bug
+git checkout -b fix-sticker-alignment-bug
 ```
 
 ```
-enhancement-sticker-creation-wizard
+git checkout -b enhancement-sticker-creation-wizard
 ```
 
 ```
-docs-sticker-application-video
+git checkout -b docs-sticker-application-video
 ```
 
 ```
-refactor-sticker-optimization-magic
+git checkout -b refactor-sticker-optimization-magic
 ```
 
 ```
-style-sticker-trend-analysis
+git checkout -b style-sticker-trend-analysis
 ```
 
 ```
-test-sticker-weather-resistance
+git checkout -b test-sticker-weather-resistance
 ```
 
 ```
-chore-sticker-vault-cleanup
+git checkout -b chore-sticker-vault-cleanup
 ```
 
 ```
-breaking-sticker-revolution
+git checkout -b breaking-sticker-revolution
 ```
 
 ```
-security-sticker-surveillance-system
+git checkout -b security-sticker-surveillance-system
 ```
 
 ```
-revert-oops-give-me-sticker-again
+git checkout -b revert-oops-give-me-sticker-again
 ```
 
 ```
-feature-sticker-powered-rocket
+git checkout -b feature-sticker-powered-rocket
 ```
 
 ```
-fix-sticker-glue-issue
+git checkout -b fix-sticker-glue-issue
 ```
 
 ```
-enhancement-sticker-AR-experience
+git checkout -b enhancement-sticker-AR-experience
 ```
 
 ```
-docs-sticker-care-guide
+git checkout -b docs-sticker-care-guide
 ```
 
 ```
-refactor-sticker-performance-boost
+git checkout -b refactor-sticker-performance-boost
 ```
 
 ```
-style-sticker-clothing-line
+git checkout -b style-sticker-clothing-line
 ```
 
 ```
-test-sticker-space-exploration
+git checkout -b test-sticker-space-exploration
 ```
 
 ```
-chore-sticker-swag-renewal
+git checkout -b chore-sticker-swag-renewal
 ```
 
 ```
-breaking-sticker-anarchy
+git checkout -b breaking-sticker-anarchy
 ```
 
 ```
-security-sticker-intrusion-detection
+git checkout -b security-sticker-intrusion-detection
 ```
 
 ```
-revert-sticker-unwanted
+git checkout -b revert-sticker-unwanted
 ```
 
 ```
-feature-sticker-treasure-hunt
+git checkout -b feature-sticker-treasure-hunt
 ```
 
 ```
-fix-sticker-stuck-on-laptop
+git checkout -b fix-sticker-stuck-on-laptop
 ```
 
 ```
-enhancement-sticker-hologram-feature
+git checkout -b enhancement-sticker-hologram-feature
 ```
 
 ```
-docs-sticker-collectors-manual
+git checkout -b docs-sticker-collectors-manual
 ```
 
 ```
-refactor-sticker-automation-enhancements
+git checkout -b refactor-sticker-automation-enhancements
 ```
 
 ```
-style-sticker-fashion-week
+git checkout -b style-sticker-fashion-week
 ```
 
 ```
-test-sticker-endurance-challenge
+git checkout -b test-sticker-endurance-challenge
 ```
 
 ```
-chore-sticker-storage-expansion
+git checkout -b chore-sticker-storage-expansion
 ```
 
 ```
-breaking-sticker-pandemonium
+git checkout -b breaking-sticker-pandemonium
 ```
 
 ```
-security-sticker-privacy-shield
+git checkout -b security-sticker-privacy-shield
 ```
 
 ```
-revert-sticker-regret
+git checkout -b revert-sticker-regret
 ```
 
 ```
-feature-sticker-powered-time-machine
+git checkout -b feature-sticker-powered-time-machine
 ```
 
 ```
-fix-sticker-magic-failure
+git checkout -b fix-sticker-magic-failure
 ```
 
 ```
-enhancement-sticker-customization-tools
+git checkout -b enhancement-sticker-customization-tools
 ```
 
 ```
-docs-sticker-trivia-quiz
+git checkout -b docs-sticker-trivia-quiz
 ```
 
 ```
-refactor-sticker-quantum-leap
+git checkout -b refactor-sticker-quantum-leap
 ```
 
 ```
-style-sticker-catwalk-show
+git checkout -b style-sticker-catwalk-show
 ```
 
 ```
-test-sticker-tornado-simulation
+git checkout -b test-sticker-tornado-simulation
 ```
 
 ```
-chore-sticker-swag-giveaway
+git checkout -b chore-sticker-swag-giveaway
 ```
 
 ```
-breaking-sticker-rebellion
+git checkout -b breaking-sticker-rebellion
 ```
 
 ```
-security-sticker-guardian-angels
+git checkout -b security-sticker-guardian-angels
 ```
 
 ```
-revert-never-mind-sticker
+git checkout -b revert-never-mind-sticker
 ```
 
 ```
-feature-sticker-powered-unicorn
+git checkout -b feature-sticker-powered-unicorn
 ```
 
 ```
-fix-sticker-gravity-defiance
+git checkout -b fix-sticker-gravity-defiance
 ```
 
 ```
-enhancement-sticker-teleportation-feature
+git checkout -b enhancement-sticker-teleportation-feature
 ```
 
 ```
-docs-sticker-artistry-secrets
+git checkout -b docs-sticker-artistry-secrets
 ```
 
 ```
-refactor-sticker-transformation-magic
+git checkout -b refactor-sticker-transformation-magic
 ```
 
 ```
-style-sticker-fashionista-expo
+git checkout -b style-sticker-fashionista-expo
 ```
 
 ```
-test-sticker-storm-testing
+git checkout -b test-sticker-storm-testing
 ```
 
 ```
-chore-sticker-treasure-map
+git checkout -b chore-sticker-treasure-map
 ```
 
 ```
-breaking-sticker-revolution-redux
+git checkout -b breaking-sticker-revolution-redux
 ```
 
 ```
-security-sticker-safe-house
+git checkout -b security-sticker-safe-house
 ```
 
 ```
-revert-sticker-regret-2
+git checkout -b revert-sticker-regret-2
 ```
 
 ```
-feature-sticker-powered-jetpack
+git checkout -b feature-sticker-powered-jetpack
 ```
 
 ```
-fix-sticker-invisibility-issue
+git checkout -b fix-sticker-invisibility-issue
 ```
 
 ```
-enhancement-sticker-x-ray-vision
+git checkout -b enhancement-sticker-x-ray-vision
 ```
 
 ```
-docs-sticker-masterclass-series
+git checkout -b docs-sticker-masterclass-series
 ```
 
 ```
-refactor-sticker-levitation-upgrade
+git checkout -b refactor-sticker-levitation-upgrade
 ```
 
 ```
-style-sticker-fashion-week-2
+git checkout -b style-sticker-fashion-week-2
 ```
 
 ```
-test-sticker-tornado-survival
+git checkout -b test-sticker-tornado-survival
 ```
 
 ```
-chore-sticker-treasure-hunt-2
+git checkout -b chore-sticker-treasure-hunt-2
 ```
 
 ```
-breaking-sticker-evolution
+git checkout -b breaking-sticker-evolution
 ```
 
 ```
-security-sticker-surveillance-network
+git checkout -b security-sticker-surveillance-network
 ```
 
 ```
-revert-undo-sticker-magic
+git checkout -b revert-undo-sticker-magic
 ```
 
 ```
-feature-sticker-powered-spaceship
+git checkout -b feature-sticker-powered-spaceship
 ```

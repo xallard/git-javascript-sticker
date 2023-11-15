@@ -6,15 +6,15 @@
 
 This project uses the node-rsa library to encrypt your mailing address, so we can send your free JavaScript sticker privately and securely.
 
-1. Node 10 and above
+1. Node 10 and above.
 
-2. Creative branch name. Examples of branch names [BRANCH-NAMES](./BRANCH-NAMES.md)
+2. Creative branch name.
 
-3. Creative commit. Examples of commit messages [COMMIT-MESSAGES](./COMMIT-MESSAGES.md)
+3. Creative commit.
 
-4. Creative pull request title. Examples of pull request titles [PULL-REQUEST-TITLES](./PULL-REQUEST-TITLES.md)
+4. Creative pull request title.
 
-5. Creative pull request description. Examples of pull request descriptions [PULL-REQUEST-DESCRIPTIONS](./PULL-REQUEST-DESCRIPTIONS.md)
+5. Creative pull request description.
 
 ## Instructions
 
@@ -34,7 +34,7 @@ This project uses the node-rsa library to encrypt your mailing address, so we ca
    npm install
    ```
 
-3. create a new branch:
+3. Create a new branch. Examples of creative branch names [BRANCH-NAMES](./BRANCH-NAMES.md):
 
    ```
    git checkout -b <creative-branch-name>
@@ -52,7 +52,7 @@ This project uses the node-rsa library to encrypt your mailing address, so we ca
    stickers/<your-github-username>.txt
    ```
 
-6. Create a new commit:
+6. Create a new commit. Examples of creative commit messages [COMMIT-MESSAGES](./COMMIT-MESSAGES.md):
 
    ```
    git add .
@@ -68,9 +68,11 @@ This project uses the node-rsa library to encrypt your mailing address, so we ca
    git push origin <creative-branch-name>
    ```
 
-8. Open a new pull request on Github with a creative title and description.
+8. Open a new pull request on Github with a creative title. Examples of creative titles [PULL-REQUEST-TITLES](./PULL-REQUEST-TITLES.md).
 
-9. That's it! Your pull request is now submitted and I will carefully review it and approve it.
+9. Inclue a creative pull request description. Examples of creative descriptions [PULL-REQUEST-TITLES](./PULL-REQUEST-TITLES.md).
+
+10. That's it! Your pull request is now submitted and I will carefully review it and approve it.
 
 ## After Receiving Your Free Sticker
 
