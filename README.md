@@ -1,6 +1,6 @@
 # Free JavaScript Sticker for a Pull Request
 
-<img src="./photos/PXL_20231115_072631595.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="280"/><img src="./photos/PXL_20231115_072652446.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="280"/><img src="./photos/PXL_20231115_072753008.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="280"/>
+<img src="./photos/PXL_20231115_072631595.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="270"/><img src="./photos/PXL_20231115_072652446.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="270"/><img src="./photos/PXL_20231115_072753008.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="270"/>
 
 ## Requirements
 
