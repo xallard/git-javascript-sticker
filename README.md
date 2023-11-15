@@ -1,8 +1,12 @@
 # Free JavaScript Sticker for a Pull Request
 
-This project uses the node-rsa library to encrypt your mailing address, so we can send your free JavaScript sticker privately and securely.
+<img src="./photos/PXL_20231115_072631595.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="280"/>
+<img src="./photos/PXL_20231115_072652446.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="280"/>
+<img src="./photos/PXL_20231115_072753008.jpeg" alt="Free JavaScript sticker - https://github.com/xallard/git-javascript-sticker" width="280"/>
 
 ## Requirements
+
+This project uses the node-rsa library to encrypt your mailing address, so we can send your free JavaScript sticker privately and securely.
 
 1. Node 10 and above
 
