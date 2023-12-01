@@ -70,7 +70,7 @@ This project uses the node-rsa library to encrypt your mailing address, so we ca
 
 8. Open a new pull request on Github with a creative title. Examples of creative titles [PULL-REQUEST-TITLES](./PULL-REQUEST-TITLES.md).
 
-9. Inclue a creative pull request description. Examples of creative descriptions [PULL-REQUEST-TITLES](./PULL-REQUEST-TITLES.md).
+9. Inclue a creative pull request description. Examples of creative descriptions [PULL-REQUEST-DESCRIPTIONS](./PULL-REQUEST-DESCRIPTIONS.md).
 
 10. That's it! Your pull request is now submitted and I will carefully review it and approve it.
 
